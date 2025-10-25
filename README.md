@@ -1,4 +1,4 @@
-```
+
 # 🐍 Basics_of_python
 
 Welcome to **Basics_of_python** — a simple and structured collection of Python files created by [**Shreya R Chittaragi**](https://github.com/ShreyaRChittaragi).  
